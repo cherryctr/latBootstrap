@@ -1,0 +1,17 @@
+.navbar{
+    border-top: 5px solid #1075bd;
+    position: absolute;
+    width: 100%;
+}
+.navbar-nav{
+    font-size: 13px;
+    margin-left: 50px;
+}
+.homenav a:hover{
+    color: #1075bd !important;
+}
+
+.btn-test {
+	width: 75px;
+}
+
